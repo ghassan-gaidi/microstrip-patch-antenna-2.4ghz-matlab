@@ -1,6 +1,6 @@
 # Microstrip Patch Antenna Design at 2.4 GHz (MATLAB)
 
-Simulation of a square microstrip patch antenna for the 2.4 GHz ISM band, using MATLAB Antenna Toolbox. Done as part of an RF/Antenna course at Faculté des Sciences de Bizerte (L2 TIC).
+Simulation of a square microstrip patch antenna for the 2.4 GHz ISM band, using MATLAB Antenna Toolbox.
 
 The full design methodology, theory, and results are documented in the included report (`RF.pdf`).
 
@@ -44,4 +44,4 @@ The fine mesh simulation for radiation takes a few minutes depending on your mac
 
 ---
 
-*L2 TIC — Faculté des Sciences de Bizerte, Université de Carthage — January 2026*
+*January 2026*
